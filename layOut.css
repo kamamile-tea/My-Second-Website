@@ -16,7 +16,7 @@ body {
 #navbar a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: rgba(255, 255, 142, 0.9);
   text-align: center;
   padding: 14px;
   text-decoration: none;
