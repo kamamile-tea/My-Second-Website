@@ -14,10 +14,10 @@ body {
 
 /* Navbar links */
 #navbar a {
-  float: center;
+  float: left;
   display: block;
   color: rgba(255, 255, 142, 0.9);
-  text-align: left;
+  text-align: center;
   padding: 14px;
   text-decoration: none;
 }
