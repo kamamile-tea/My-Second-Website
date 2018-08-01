@@ -13,6 +13,10 @@ body {
 
 #navabar a {
   float: center;
+  display: block;
   color: rgba(0, 0, 0, 0.9);
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
 
 }
