@@ -6,6 +6,10 @@ body {
   background-size: cover;
 }
 
+#navbar {
+  overflow: hidden;
+  background-color: rgba(223, 172, 148, 0.9);
+}
 
 
 #navabar a {
